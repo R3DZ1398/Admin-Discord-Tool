@@ -13,12 +13,6 @@
 ### ✨ Caratteristiche Principali:
 - 🛠️ **20 Strumenti di Amministrazione**: Nuke Canale, Server Lockdown, Wipe Inviti, Prune di massa, Blocco Nickname, e molto altro.
 - 🤖 **Chat AI OSINT**: Ricerca intelligente di informazioni (IP, Domini, User Intelligence) integrata direttamente nella dashboard.
-- 🗄️ **Database Decentralizzato (Discord-Based)**: L'app non richiede server esterni; usa 5 canali Discord segreti come database per:
-  - Log di Utilizzo (IP/HWID)
-  - Log di Ban/Sban
-  - Log delle ricerche OSINT
-  - Log di vendita licenze
-  - Mod Logs e Warning dei Server Partner
 - 🔒 **Sistema DRM d'Élite**: Protezione tramite Licenza univoca con blocco IP e HWID (Hardware ID). Ogni istanza è legata al PC dell'utente.
 - 🤝 **Supporto Server Partner**: Generazione bulk di licenze per partner con ricevute automatiche.
 
@@ -37,12 +31,6 @@ Per ottenere l'accesso alla Dashboard e generare le tue chiavi di licenza:
 ### ✨ Key Features:
 - 🛠️ **20 Administration Tools**: Channel Nuke, Server Lockdown, Invite Wipe, Mass Prune, Nickname Lock, and more.
 - 🤖 **OSINT AI Chat**: Intelligent information lookup (IPs, Domains, User Intelligence) integrated directly into the dashboard.
-- 🗄️ **Decentralized Database (Discord-Based)**: No external servers required; it uses 5 secret Discord channels as databases for:
-  - Usage Logs (IP/HWID)
-  - Ban/Unban Logs
-  - OSINT Query Logs
-  - Sales Receipts
-  - Mod Logs & Partner Server Warnings
 - 🔒 **Elite DRM System**: Protected by a unique License Key with IP and HWID (Hardware ID) locking. Each instance is tied to the user's PC.
 - 🤝 **Partner Server Support**: Bulk license generation for partners with automatic receipts.
 
